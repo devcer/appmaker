@@ -40,7 +40,7 @@
     "node-uuid": "1.4.1",
     "noxmox": "0.2.4",
     "postmark": "0.2.0",
-    "request": "~2.34.0 ",
+    "request": "~2.88.2 ",
     "statsd": "0.7.1",
     "tmp": "~0.0.23",
     "vulcanize": "https://github.com/mozilla-appmaker/vulcanize/archive/master.tar.gz",
