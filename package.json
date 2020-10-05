@@ -25,7 +25,7 @@
     "grunt-gettext-finder": "0.0.5",
     "helmet": "0.2.1",
     "html-minifier": "~0.6.5",
-    "http-proxy": "1.1.1",
+    "http-proxy": "1.18.1",
     "knox": "0.8.9",
     "less": "1.7.0",
     "less-middleware": "0.1.15",
